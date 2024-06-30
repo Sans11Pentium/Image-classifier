@@ -12,6 +12,8 @@ So we plan to identify whether the image has a dog or not. If yes, then identify
 - Correctly classify the breed of dog, for the images that are of dogs.  
 - Determine which CNN model architecture (ResNet, AlexNet, or VGG), "best" achieve objectives 1 and 2.  
 
+<img src="https://www.researchgate.net/publication/353905631/figure/fig1/AS:1084574339727360@1635594081261/CNN-architecture-for-image-classification.jpg" alt = "img">
+
 ### In this project we had 2 main objectives:
 1. Identifying which pet images are of dogs and which pet images aren't of dogs
 2. Classifying the breeds of dogs, for the images that are of dogs
